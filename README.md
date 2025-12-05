@@ -81,9 +81,8 @@ Key steps included:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots in `/images/` and update links below)
+(https://app.powerbi.com/groups/me/reports/b4499f89-c417-4f67-bb20-7819fc517590/bd697bc135a107d7e84b?experience=power-bi)
 
-![Dashboard Overview](https://app.powerbi.com/groups/me/reports/b4499f89-c417-4f67-bb20-7819fc517590/bd697bc135a107d7e84b?experience=power-bi)  
   
 
 ---
